@@ -1,0 +1,8 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+.gold-background {
+  background-image: url(https://drive.google.com/file/d/1hUE30khl5kuRE_D1mXnoEh0Mb8oQqdiu/view?usp=sharing);
+  opacity: 0.7;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
