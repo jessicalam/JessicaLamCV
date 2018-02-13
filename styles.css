@@ -1,8 +1,31 @@
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
-.gold-background {
-  background-image: url(https://drive.google.com/file/d/1hUE30khl5kuRE_D1mXnoEh0Mb8oQqdiu/view?usp=sharing);
-  opacity: 0.7;
+.lora-font  {font-family: "Lora", sans-serif}
+.header {
+  background: #600000;
+  height: 15px;
+  width: 100%;
+}
+
+.body-background {
+  background-image: url("https://lh6.googleusercontent.com/_RTrfAs4KqPoB6HK6cvVeqri1ZD0manluPvzVkx-_UFJGwTferadAXiv-4gzNsOStVDlQxdxl06W9pRkjOSO=w950-h933-rw");
+  opacity: 1;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.footer-background {
+    background: #600000;
+    background-size: cover;
+    color: white;
+}
+
+.footer-icon-size {
+  font-size: 40px;
+  padding-left: 7px;
+  padding-right: 7px;
 }
